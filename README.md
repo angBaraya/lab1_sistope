@@ -1,10 +1,12 @@
-# Clase jue, 4 septiembre 
+# LAB 1
+
+## Clase jue, 4 septiembre 
 
 - Usamos bash
 
 - Pipelines entre scripts
 
-## Comandos importantes pal lab
+### Comandos importantes pal lab
 
 - ps
 
@@ -12,7 +14,7 @@
 
 - while
 
-## Cosas 
+### Cosas de la clase
 
 - flags en linea de comandos
 
